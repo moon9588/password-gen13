@@ -54,6 +54,8 @@ header {
   min-height: 100px;
 }
 
+
+
 .card-footer {
   text-align: center;
 }
@@ -117,6 +119,8 @@ button[disabled] {
   resize: none;
   overflow: hidden;
 }
+
+
 
 @media (max-width: 690px) {
   .btn {
