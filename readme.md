@@ -13,10 +13,10 @@ Some of the challenges that I encountered were
 2. My password wouldn't show up on the web  once I click generate password
 
 
-Link deployed application is: 
+Link deployed application is: https://moon9588.github.io/password-gen13/
 
 Link to github respository: https://github.com/moon9588/password-gen13.git
 
-website include images:
+website include images: https://github.com/moon9588/password-gen13/blob/main/Screen%20Shot%202021-12-12%20at%208.36.42%20PM.png
 
 
